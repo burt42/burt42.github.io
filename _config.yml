@@ -17,8 +17,8 @@ title: 止涯
 email: yangjun0101@gmail.com
 name: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  ""
-keywords: [吾生也有涯，而知也无涯]
+  吾生也有涯，而知也无涯
+keywords: []
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://burt42.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "burt42.github.com" # the domain name for your site, e.g. example.com
