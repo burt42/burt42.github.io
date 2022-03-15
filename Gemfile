@@ -10,7 +10,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 4.2.2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-archives"
   gem "jekyll-seo-tag"
+  gem "webrick"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
